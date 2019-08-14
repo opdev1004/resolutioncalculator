@@ -51,7 +51,7 @@ html {
 }
 
 body  {
-  background-color: #181c24;
+  background-color: #23272f;
   color: #cccccc;
   margin: 0px;
   min-height: 100%;
@@ -73,6 +73,10 @@ body  {
 .HiddebApp {
   background-color: #181c24;
   display: none;
+}
+
+#Tab {
+  background-color: #181c24;
 }
 
 #Tab .SelectedTab {
